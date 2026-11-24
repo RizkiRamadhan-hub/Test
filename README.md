@@ -1,1 +1,1 @@
-buat bslajar python
+buat belajar python

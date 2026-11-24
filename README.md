@@ -1,2 +1,1 @@
-# Test
-Gitulah
+buat bslajar python
